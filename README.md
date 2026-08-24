@@ -38,10 +38,3 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
     />
     
-   ## 📊 Estatísticas
-   <img
-    alt="Github Stats"
-    height="200"
-    style="padding-right: 10px;"
-    scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-RibeiroS"
-   />
