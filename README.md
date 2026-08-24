@@ -1,10 +1,47 @@
-# Olá! Tudo tranquilo? ☕ 
-## Atualmente interessado na área de Segurança da informação. Mas também procuro me informar nas mais diversas áreas relacionadas a TI.
+## Olá! Tudo tranquilo? ☕ 
+### Me chamo Isaque, tenho 19 anos. Atualmente interessado na área de desenvolvimento back-end. Mas também procuro me informar nas mais diversas áreas relacionadas a TI.
 
-### Estudando: Java - Python - MySQL - HTML5 - CSS - Javascript - Redes
-
- <div>
-  <a href="https://github.com/Isaque-RibeiroS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaque-RibeiroS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-RibeiroS&layout=compact&langs_count=16&theme=dark"/>
-</div>
+##  💻 Estudando
+<img 
+ align="left"
+ width="50px"
+ style="padding-right: 20px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+ />
+ <img 
+  align="left"
+  width="50px"
+  style="padding-right: 20px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"       
+  />
+  <img 
+  align="left"
+  width="50px"
+  style="padding-right: 20px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+   <img
+   align="left"
+   width="50px"
+   style="padding-right: 20px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+   />
+   <img 
+   align="left"
+   width="50px"
+   style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+   <img 
+   width="50px"
+   style="padding-right: 20px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
+    />
+    
+   ## 📊 Estatísticas
+   <img
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px;"
+    scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-RibeiroS"
+   />
