@@ -2,12 +2,7 @@
 ### Me chamo Isaque, tenho 19 anos. Atualmente interessado na área de Segurança da Informação. Mas também procuro me informar nas mais diversas áreas relacionadas a TI.
 
 ##  💻 Estudando
-<img 
- align="left"
- width="50px"
- style="padding-right: 20px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
- />
+
  <img 
   align="left"
   width="50px"
