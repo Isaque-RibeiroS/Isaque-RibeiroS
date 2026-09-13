@@ -1,7 +1,7 @@
 ## Olá! Tudo tranquilo? ☕ 
 ### Me chamo Isaque, tenho 19 anos. Atualmente interessado na área de Segurança da Informação. Mas também procuro me informar nas mais diversas áreas relacionadas a TI.
 
-##  💻 Estudando
+##  💻 Tecnologias
 
  <img 
   align="left"
